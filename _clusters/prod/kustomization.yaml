@@ -4,33 +4,48 @@ kind: Kustomization
 resources:
   - ../../_msevcik_demo
   - ../../ab-ambulance
+  - ../../ac-ambulance
   - ../../adp-team
+  - ../../af-ambulance
+  - ../../bado-ambulance
+  - ../../bamat-ambulance
+  - ../../db_ambulance
   - ../../fa-ambulance
   - ../../fchalas-ambulance
+  - ../../fp-sz-team
+  - ../../hhh-team
   - ../../hoka-ambulance
   - ../../ij-ambulance
-#  - ../../janec-ambulance
+  - ../../janec-ambulance
   - ../../jb_ambulance
   - ../../jj-ambulance
   - ../../jm-lm-ambulance
-#  - ../../ll-ambulance
+  - ../../kali-team
+  - ../../ll-ambulance
   - ../../m-nem-ambulance
   - ../../mar-ku-ambulance
+  - ../../mb-ambulance
   - ../../md_ambulance
   - ../../mdurovic-ambulance
   - ../../mf-ambulance
   - ../../mjankuliak-ambulance
   - ../../mkrchnavy-ambulance
   - ../../mkukucka-ambulance
-  - ../../pablo_ambulance
+  - ../../pablo-ambulance
   - ../../pc-ambulance
+  - ../../xkollarovap-project
   - ../../peter-plevko
   - ../../pirky
   - ../../pkollarova-ambulance
+  - ../../pprerko-team
   - ../../rericha_ambulance
   - ../../stesch-ambulance
+  - ../../team09-form-app
+  - ../../tl-team
   - ../../vf_ambulance
   - ../../xholubov_ambulance
+  - ../../hhh-team
   - ../../xvykopal-ambulance
-  
+  - ../../zy-ambulance
+
 namespace: wac-hospital
